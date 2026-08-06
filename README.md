@@ -21,7 +21,6 @@
 
 <p>- 🌱 I’m currently learning <strong> HOW TO LEARN :> </strong></p>
 
-<p>- Fun Fact : I love reading books, check out <a href="https://www.goodreads.com/user/show/76475668">my Goodreads</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
